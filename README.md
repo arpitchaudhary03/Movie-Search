@@ -1,18 +1,20 @@
-Youtube-Clone
-A clone of popular website youtube.
+Movie-Search-App
+A Movie Search website for getting information about any Movie and web-series. using OMDB Api.
 
 About this project: 🙌
-It is an individual project carried out by me with the help of Google Youtube Api.
+It is an individual project carried out by me with the help of OMDB Movie Api.
 
-User can search for any of the videos present in youtube.
+Also implemented debouncing so that there will be less API calls.
 
-Also user can watch any video and can see the latest comments on that video.
+Live Link : https://movie-search-arpit.netlify.app/
 
-Live Link : https://youtube-clone-akshit.netlify.app/
+DropDown
 
-Video Page Comments
+Details
+
+Trending
 
 Tech Stack:
-HTML,
-CSS,
+HTML
+CSS
 JavaScript
